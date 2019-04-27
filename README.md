@@ -35,17 +35,9 @@ This step is important to remove all the existing DNS cache in Firefox.
 
 **3. Install this plugin.**
 
-Download: https://github.com/dev2501/wikipedia-sni-circumvent/releases/download/0.1/wikipedia-sni-circumvent.zip
+Download:
 
-Open "about:config", set "xpinstall.signatures.required" to false. Open
-"about:addons", click "Extensions" from the tab at the left side, and
-click the gear icon at the right side, choose "Install Add-on From File",
-and select the zip package you've downloaded, and ignore the signature
-warning.
-
-The author of this plugin will get a valid signature soon. Make sure to
-**remove the beta version and set "xpinstall.signatures.required" back to
-true** again to protect yourself when this Addon is formally released.
+https://github.com/dev2501/wikipedia-sni-circumvent/releases/download/0.1.1/wikipedia-sni-circumvent.xpi
 
 April, 2019
 
