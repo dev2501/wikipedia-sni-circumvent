@@ -2,7 +2,7 @@
   "description": "Circumvent SNI-based censorship on Wikipedia by the Great Firewall of China.",
   "manifest_version": 2,
   "name": "Wikipedia SNI Censorship Circumvention",
-  "version": "0.1",
+  "version": "0.1.1",
   "homepage_url": "https://github.com/dev2501/wikipedia-sni-circumvent",
   "icons": {
     "48": "wall.svg",
